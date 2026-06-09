@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&customColorList=6,17,24,30&text=ANSHIO%20RENIN&fontSize=50&fontColor=ffffff&animation=twinkling&desc=⚡%20Cybersecurity%20Analyst%20•%20Threat%20Detection%20•%20Dublin%20⚡&descSize=16&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=6,17,24,30&text=ANSHIO%20RENIN&fontSize=46&fontColor=ffffff&animation=twinkling&desc=⚡%20Cybersecurity%20Analyst%20•%20Threat%20Detection%20•%20Dublin%20⚡&descSize=15&descAlignY=78&fontAlignY=42" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=F72585;7209B7;3A0CA3;4CC9F0&center=true&vCenter=true&width=650&lines=MSc+Cybersecurity+%7C+Dublin+Business+School;Distributed+IDS+%E2%80%94+450%2B+attacks%2C+45+threat+types;SAST+%2F+DAST+%E2%80%A2+SNORT+%E2%80%A2+STRIDE+Threat+Modelling;Full+Irish+work+rights+%E2%80%94+available+immediately+%F0%9F%9A%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=F72585;7209B7;3A0CA3;4CC9F0&center=true&vCenter=true&width=800&height=28&lines=MSc+Cybersecurity+%7C+Dublin+Business+School;Distributed+IDS+%E2%80%94+450%2B+attacks%2C+45+threat+types;SAST+%2F+DAST+%E2%80%A2+SNORT+%E2%80%A2+STRIDE+Threat+Modelling;Full+Irish+work+rights+%E2%80%94+available+immediately" alt="typing"/>
 
 <br/><br/>
 
@@ -15,10 +15,10 @@
 
 </div>
 
-## 🧑‍💻 `> whoami`
+## 👋 About Me
 
-> **I build detection systems, break applications to find their weaknesses, and write reports people can act on.**
-> MSc Cybersecurity graduate in Dublin. Full working rights in Ireland — no sponsorship required. Available immediately.
+> **I build detection systems, test applications for weaknesses, and write security reports people can act on.**
+> MSc Cybersecurity graduate based in Dublin. Full working rights in Ireland — no sponsorship required. Available immediately.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -50,26 +50,53 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-## 🧰 Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,aws,gcp,docker,ansible,githubactions,git,arduino,raspberrypi&perline=12" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cs,mysql,linux,kali,windows,aws,gcp,docker,ansible,githubactions,git,arduino,raspberrypi&perline=8" alt="skills"/>
 
 <br/><br/>
 
+🔴 **Detection & Network Security**
+
 <img src="https://img.shields.io/badge/SNORT_IDS-CC0000?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-7209B7?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6B35?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/TCP/IP_•_DNS_•_HTTP/S-39FF14?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Firewalls_•_CIS_Controls-FFD60A?style=for-the-badge&labelColor=1a1a2e"/>
+
+🟣 **AppSec & DevSecOps**
+
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Semgrep-2ACFA6?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Snyk-F72585?style=for-the-badge&logo=snyk&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6B35?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/STRIDE-4CC9F0?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-7209B7?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/STRIDE_Threat_Modelling-4CC9F0?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CVE/CWE_Triage-FF006E?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Secure_SDLC_•_SCA-8338EC?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/DVWA_•_WebGoat_•_Hackazon-FB5607?style=for-the-badge&labelColor=1a1a2e"/>
 
-🔵 **Detection & Response** — IDS · Alert Triage · IOC Validation · Incident Reports
-🟣 **AppSec** — SAST · DAST · Threat Modelling · CVE/CWE Triage · Secure SDLC
-🟢 **Cloud** — AWS Hardening (CIS) · IAM · Secrets Management · CI/CD Security
+🔵 **Forensics & Analysis**
+
+<img src="https://img.shields.io/badge/Autopsy-2D6A4F?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/FTK_Imager-40916C?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Packet_Analysis-52B788?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Cryptography-74C69D?style=for-the-badge&labelColor=1a1a2e"/>
+
+🟢 **Cloud & IoT Security**
+
+<img src="https://img.shields.io/badge/AWS_EC2_Hardening_(CIS)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/IAM_Least_Privilege-FFB703?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/SSH_Hardening_•_Secrets_Mgmt-FB8500?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/MQTT_Security-660066?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ESP32_•_Raspberry_Pi-E63946?style=for-the-badge&labelColor=1a1a2e"/>
+
+🟡 **AI Security** &nbsp;<img src="https://img.shields.io/badge/LLM_Risks_•_Prompt_Injection_•_Model_Misuse-FFD60A?style=flat-square&labelColor=1a1a2e"/> &nbsp;🎓 **Certs** &nbsp;<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TryHackMe_Cyber_Security_101-C11111?style=flat-square&logo=tryhackme&logoColor=white&labelColor=1a1a2e"/>
+
+📝 **Reporting** — Vulnerability assessment reports · Remediation roadmaps · Risk reports · Incident reports with severity classification · Documentation for technical & non-technical stakeholders
 
 </div>
 
@@ -77,11 +104,11 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-## 📡 `> contact --now`
+## 📬 Get In Touch
 
 <div align="center">
 
-⚡ **Open to SOC Analyst · Security Analyst · AppSec roles in Ireland** ⚡
+**Open to SOC Analyst · Security Analyst · AppSec roles in Ireland**
 
 📧 [anshiorenin2001@gmail.com](mailto:anshiorenin2001@gmail.com) &nbsp;•&nbsp; 💼 [linkedin.com/in/anshio-renin-ms](https://www.linkedin.com/in/anshio-renin-ms) &nbsp;•&nbsp; 📍 Dublin
 
