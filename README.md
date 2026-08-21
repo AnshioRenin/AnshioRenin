@@ -8,8 +8,9 @@
 
 <a href="https://www.linkedin.com/in/anshio-renin-ms"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="mailto:anshiorenin2001@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-F72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<img src="https://img.shields.io/badge/📍_Dublin-Ireland-4CC9F0?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/📍_Dublin_·_open_to_relocate-4CC9F0?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-39FF14?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-E11B22?style=for-the-badge&logo=comptia&logoColor=white&labelColor=1a1a2e"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -52,7 +53,7 @@
 | 💥 | Project | Headline numbers |
 |---|---|---|
 | 🛡️ | **[AI-Assisted SOC Detection Lab](https://github.com/AnshioRenin/AI-Assisted-SOC-Detection-Lab)** | `Wazuh SIEM` `Sysmon` `241 events hunted in SQL` `custom detection → MITRE T1003.001` `local-LLM triage, prompt-injection hardened` |
-| 📡 | **[DCIS Mesh — Distributed IoT Threat Detection](https://github.com/AnshioRenin/DCIS-MESH-IoT-Security)** | `450+ attacks` `45 threat types` `88–100% detection` `FP 12%→0%` `1.2s response` `Byzantine consensus` |
+| 📡 | **[DCIS Mesh — Distributed IoT Threat Detection](https://github.com/AnshioRenin/DCIS-MESH-IoT-Security)** | `450+ attacks` `40+ attack types` `88–100% detection` `FP 12%→0%` `1.2s response` `Byzantine consensus` |
 | 🚨 | **[SNORT IDS — Custom Rules & Triage](https://github.com/AnshioRenin/Snort-IDS-Network-Intrusion-Detection-System-Setup-Configuration)** | `8 custom rules` `port scans • brute force • SQLi • DNS abuse` `shift-ready incident reports` |
 | 💥 | **[Penetration Test — DVWA](https://github.com/AnshioRenin/pentest-dvwa)** | `black-box` `3-vuln chain to root` `phpMyAdmin → shell → sudo` `PoC + remediation` |
 | 🔬 | **[Digital Forensics Investigation](https://github.com/AnshioRenin/digital-forensics-investigation)** | `E01 disk image` `network intrusion reconstruction` `MITRE ATT&CK mapped` |
