@@ -28,11 +28,20 @@
 
 <div align="center">
 
+<a href="https://github.com/AnshioRenin/AI-Assisted-SOC-Detection-Lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=AI-Assisted-SOC-Detection-Lab&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="AI SOC Lab"/>
+</a>
 <a href="https://github.com/AnshioRenin/DCIS-MESH-IoT-Security">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=DCIS-MESH-IoT-Security&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="DCIS Mesh"/>
 </a>
 <a href="https://github.com/AnshioRenin/Snort-IDS-Network-Intrusion-Detection-System-Setup-Configuration">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=Snort-IDS-Network-Intrusion-Detection-System-Setup-Configuration&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="SNORT IDS"/>
+</a>
+<a href="https://github.com/AnshioRenin/pentest-dvwa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=pentest-dvwa&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="DVWA Pentest"/>
+</a>
+<a href="https://github.com/AnshioRenin/digital-forensics-investigation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=digital-forensics-investigation&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="Digital Forensics"/>
 </a>
 <a href="https://github.com/AnshioRenin/SAST-DAST-Security-Assessment-OWASP-WebGoat">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshioRenin&repo=SAST-DAST-Security-Assessment-OWASP-WebGoat&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=F72585&icon_color=4CC9F0" width="48%" alt="SAST DAST"/>
@@ -42,9 +51,14 @@
 
 | 💥 | Project | Headline numbers |
 |---|---|---|
-| 🛡️ | **[DCIS Mesh — Distributed IoT Threat Detection](https://github.com/AnshioRenin/DCIS-MESH-IoT-Security)** | `450+ attacks` `45 threat types` `88–100% detection` `FP 12%→0%` `1.2s response` `Byzantine consensus on 82KB RAM` |
+| 🛡️ | **[AI-Assisted SOC Detection Lab](https://github.com/AnshioRenin/AI-Assisted-SOC-Detection-Lab)** | `Wazuh SIEM` `Sysmon` `241 events hunted in SQL` `custom detection → MITRE T1003.001` `local-LLM triage, prompt-injection hardened` |
+| 📡 | **[DCIS Mesh — Distributed IoT Threat Detection](https://github.com/AnshioRenin/DCIS-MESH-IoT-Security)** | `450+ attacks` `45 threat types` `88–100% detection` `FP 12%→0%` `1.2s response` `Byzantine consensus` |
 | 🚨 | **[SNORT IDS — Custom Rules & Triage](https://github.com/AnshioRenin/Snort-IDS-Network-Intrusion-Detection-System-Setup-Configuration)** | `8 custom rules` `port scans • brute force • SQLi • DNS abuse` `shift-ready incident reports` |
-| 🔍 | **[SAST/DAST — WebGoat & Hackazon](https://github.com/AnshioRenin/SAST-DAST-Security-Assessment-OWASP-WebGoat)** | `16+ high-severity findings` `CWE-mapped` `STRIDE-prioritised` `CI/CD integrated` |
+| 💥 | **[Penetration Test — DVWA](https://github.com/AnshioRenin/pentest-dvwa)** | `black-box` `3-vuln chain to root` `phpMyAdmin → shell → sudo` `PoC + remediation` |
+| 🔬 | **[Digital Forensics Investigation](https://github.com/AnshioRenin/digital-forensics-investigation)** | `E01 disk image` `network intrusion reconstruction` `MITRE ATT&CK mapped` |
+| 🔍 | **[SAST/DAST — WebGoat & Hackazon](https://github.com/AnshioRenin/SAST-DAST-Security-Assessment-OWASP-WebGoat)** | `16+ high-severity findings` `CWE-mapped` `STRIDE-prioritised` |
+| 🏥 | **[Business Continuity & DR Plan](https://github.com/AnshioRenin/business-continuity-plan)** | `ISO 22301` `acute hospital` `BIA + RTO/RPO` `ransomware + insider` |
+| ☁️ | **[AWS Secure Infrastructure (IaC)](https://github.com/AnshioRenin/aws-secure-infrastructure-terraform)** | `Terraform + Ansible + GitHub Actions` `encrypted secrets` `documented hardening backlog` |
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -94,7 +108,7 @@
 <img src="https://img.shields.io/badge/MQTT_Security-660066?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/ESP32_•_Raspberry_Pi-E63946?style=for-the-badge&labelColor=1a1a2e"/>
 
-🟡 **AI Security** &nbsp;<img src="https://img.shields.io/badge/LLM_Risks_•_Prompt_Injection_•_Model_Misuse-FFD60A?style=flat-square&labelColor=1a1a2e"/> &nbsp;🎓 **Certs** &nbsp;<img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TryHackMe_Cyber_Security_101-C11111?style=flat-square&logo=tryhackme&logoColor=white&labelColor=1a1a2e"/>
+🟡 **AI Security** &nbsp;<img src="https://img.shields.io/badge/LLM_Risks_•_Prompt_Injection_•_Model_Misuse-FFD60A?style=flat-square&labelColor=1a1a2e"/> &nbsp;🎓 **Certs** &nbsp;<img src="https://img.shields.io/badge/CompTIA_Security%2B_(SY0--701)-E11B22?style=flat-square&logo=comptia&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/TryHackMe_Cyber_Security_101-C11111?style=flat-square&logo=tryhackme&logoColor=white&labelColor=1a1a2e"/>
 
 📝 **Reporting** — Vulnerability assessment reports · Remediation roadmaps · Risk reports · Incident reports with severity classification · Documentation for technical & non-technical stakeholders
 
